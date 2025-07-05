@@ -1,0 +1,11 @@
+# Virtual Environment
+venv/
+
+# Datasets
+data/
+
+# # Model Files
+
+models1/
+models/
+*.keras
